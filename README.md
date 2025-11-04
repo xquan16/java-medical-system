@@ -38,4 +38,4 @@ The system provides four distinct roles (Manager, Staff, Doctor, and Customer), 
 * **Framework**: Java Swing (for GUI)
 * **Data Storage**: Flat-File Database (File I/O using `.txt` files for users, appointments, and payments).
 * **Core OOP Principles**: The project heavily utilizes OOP concepts including **Inheritance** (e.g., `User` parent class), **Encapsulation**, **Polymorphism** (e.g., `CRUD` and `Individual` interfaces), and **Abstraction**.
-<img width="773" height="1260" alt="image" src="https://github.com/user-attachments/assets/6fdc9996-d9ed-4293-a380-83163a1e9ffc" />
+
