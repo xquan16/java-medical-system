@@ -1,0 +1,7 @@
+# NetBeans IDE
+build/
+dist/
+nbproject/
+
+# Compiled Java
+*.class

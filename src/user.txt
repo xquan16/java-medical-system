@@ -1,0 +1,9 @@
+M01,sawraw,1234,Manager,Rijesh
+S01,chris,1234,Staff,quan
+D01,kaemon,1234,Doctor,Monmon
+C01,hao,1234,Customer,ZHao
+D02,cx,1234,Doctor,ChengXi
+C02,dondon,1234,Customer,Brandon
+C03,qm,1234,Customer,Tan.Q.M
+C04,jw,1234,Customer,jiawei
+S02,xq,1234,Staff,cxq
